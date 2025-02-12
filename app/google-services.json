@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522230380436",
+    "project_id": "bookingapp-with-sosalert",
+    "storage_bucket": "bookingapp-with-sosalert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522230380436:android:60f9f0cf3e74b88cb3c181",
+        "android_client_info": {
+          "package_name": "com.example.bookingappwithsosalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSa2OEkLglLf8svQdI3yLuyTM15OAxtTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
